@@ -1,1 +1,4 @@
-export interface PostRequest {}
+export interface PostRequest {
+    name:string;
+    description:string;
+}
